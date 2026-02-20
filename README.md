@@ -15,7 +15,7 @@ _An intelligent machine learning system that detects phishing emails using Pytho
 - [Future Enhancements](#future-enhancements)
 - [Conclusion](#conclusion)
 - [Role & Contribution](#role--contribution)
-- [Author](#author)
+- [Authors](#authors)
 
 ---
 
@@ -155,7 +155,7 @@ This system can help organizations:
 
 ---
 
-## Author
+## Authors
 **Mian Shakar Afzal**  &  **Muhammad Salman**  
 
 [LinkedIn](https://www.linkedin.com/in/mian-shakar-afzal-959b443a8/) | [GitHub](https://github.com/SHAKAR-AFZAL) | [Email](mailto:mianshakarafzal@gmail.com)
