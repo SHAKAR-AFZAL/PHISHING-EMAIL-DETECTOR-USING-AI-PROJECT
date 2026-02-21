@@ -139,7 +139,7 @@ This system can help organizations to:
 - Strengthen email security  
 - Reduce phishing risks  
 - Automate threat detection  
-- Improve user awareness  
+- Boost user awareness and vigilance  
 
 ---
 
