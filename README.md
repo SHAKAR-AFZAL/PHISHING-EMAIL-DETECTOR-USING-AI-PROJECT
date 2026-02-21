@@ -136,7 +136,7 @@ The machine learning model successfully detects phishing emails with high accura
 
 This system can help organizations to:
 
-- Strengthen email security  
+- Enhance overall email security 
 - Reduce phishing risks  
 - Automate threat detection  
 - Boost user awareness and vigilance  
