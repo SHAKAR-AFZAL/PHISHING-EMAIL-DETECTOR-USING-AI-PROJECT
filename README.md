@@ -156,7 +156,7 @@ This system can help organizations:
 ---
 
 ## Authors
-**Mian Shakar Afzal**  &  **Muhammad Salman**  
+**Mian Shakar Afzal**   &   **Muhammad Salman**  
 
 [LinkedIn](https://www.linkedin.com/in/mian-shakar-afzal-959b443a8/) | [GitHub](https://github.com/SHAKAR-AFZAL) | [Email](mailto:mianshakarafzal@gmail.com)
 
