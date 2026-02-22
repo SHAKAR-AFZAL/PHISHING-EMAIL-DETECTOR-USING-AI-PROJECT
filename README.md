@@ -116,7 +116,7 @@ The project includes a responsive **Flask-based web interface**.
 <img width="498" height="437" alt="INTERFACE" src="https://github.com/user-attachments/assets/1ec27d5d-3b77-4b9e-8aab-72a5a3d3391f" />
 
 ### UI Improvements
-- Centralized design  
+- Centralized Design  
 - Styled CSS interface  
 - Button hover effects  
 - Improved usability  
