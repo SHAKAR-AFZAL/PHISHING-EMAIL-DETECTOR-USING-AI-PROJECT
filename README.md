@@ -119,7 +119,7 @@ The project includes a responsive **Flask-based web interface**.
 - Centralized Design  
 - Styled CSS Interface  
 - Button hover Effects  
-- Improved usability  
+- Improved Usability  
 
 ---
 
