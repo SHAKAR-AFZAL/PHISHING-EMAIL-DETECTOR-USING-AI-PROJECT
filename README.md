@@ -46,7 +46,7 @@ The dataset contains **39,154 email records** with labeled phishing and legitima
 - Sender  
 - Receiver  
 - Date  
-- subject  
+- Subject  
 - body  
 - urls  
 - Label (1 = Phishing, 0 = Legitimate)
