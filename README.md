@@ -43,7 +43,7 @@ The primary goals of this project are:
 The dataset contains **39,154 email records** with labeled phishing and legitimate emails.
 
 ### Key Features
-- sender  
+- Sender  
 - receiver  
 - date  
 - subject  
