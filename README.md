@@ -68,7 +68,7 @@ The dataset contains **39,154 email records** with labeled phishing and legitima
 ## Methodology
 
 ### Data Preprocessing
-- Text cleaning and normalization  
+- Text Cleaning and Normalization  
 - Feature extraction using **CountVectorizer**  
 - Train-test split (80/20)  
 
