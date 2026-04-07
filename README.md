@@ -40,7 +40,7 @@ The primary goals of this project are:
 ## Dataset
 🗂️ **Dataset File Used:** CEAS_08.csv  
 
-The dataset contains **39,154 email records** with labeled phishing and legitimate emails.
+The dataset contains **39,154 email records** with the labeled phishing and legitimate emails.
 
 ### Key Features
 - Sender  
