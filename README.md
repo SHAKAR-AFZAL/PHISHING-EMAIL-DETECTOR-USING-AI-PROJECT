@@ -70,7 +70,7 @@ The dataset contains **39,154 email records** with labeled phishing and legitima
 ### Data Preprocessing
 - Text Cleaning and Normalization  
 - Feature extraction using **CountVectorizer**  
-- Train-test split (80/20)  
+- Train test split (80/20)  
 
 ### Feature Engineering
 CountVectorizer was used because it:
