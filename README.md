@@ -145,7 +145,7 @@ This system can help organizations to:
 
 ---
 
-## Role & Contribution
+## Role And Contribution
 - Problem Understanding  
 - Data Preprocessing  
 - Feature Engineering  
