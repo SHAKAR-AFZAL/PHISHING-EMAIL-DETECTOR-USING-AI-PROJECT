@@ -151,7 +151,7 @@ This system can help organizations to:
 - Feature Engineering  
 - Model Training & Evaluation  
 - Flask App Development  
-- UI Styling (HTML/CSS)  
+- UI Styling  
 - Performance Analysis  
 - End-to-End ML Implementation  
 
