@@ -32,7 +32,7 @@ The primary goals of this project are:
 - Build a reliable phishing email classification model  
 - Transform raw email text into meaningful numerical features  
 - Achieve high accuracy and recall in detection  
-- Deploy a user-friendly web interface for real-time predictions  
+- Deploy user-friendly web interface for real-time predictions  
 - Demonstrate an end-to-end ML pipeline  
 
 ---
