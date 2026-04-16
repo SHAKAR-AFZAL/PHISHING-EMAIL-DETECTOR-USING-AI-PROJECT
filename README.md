@@ -1,4 +1,4 @@
-# 📧 Phishing Email Detector Using AI — ML-Powered Email Security
+# Phishing Email Detector Using AI — ML-Powered Email Security
 
 _An intelligent machine learning system that detects the phishing emails using Python and Flask to enhance cybersecurity and protect users from email-based attacks._
 
