@@ -27,7 +27,7 @@ This project presents a **machine learning-based phishing email detector** that 
 ---
 
 ## Project Objective
-The primary goals of this project are:
+The primary goals of the project are:
 
 - Build a reliable phishing email classification model  
 - Transform raw email text into meaningful numerical features  
