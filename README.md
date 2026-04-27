@@ -55,7 +55,7 @@ The dataset contains **39,154 email records** with the labeled phishing and legi
 
 ## Tools and Technologies
 - **Python**
-- **Scikit learn**
+- **Scikit Learn**
 - **Flask**
 - **HTML**
 - **CSS**
