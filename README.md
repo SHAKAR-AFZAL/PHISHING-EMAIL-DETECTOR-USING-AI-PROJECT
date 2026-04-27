@@ -136,7 +136,7 @@ The project includes a responsive **Flask-based web interface**.
 ## Conclusion
 The machine learning model successfully detects phishing emails with high accuracy and recall. The combination of **CountVectorizer** and **Logistic Regression** provides a fast and efficient baseline solution.
 
-This system can help organizations to:
+This system can help the organizations to:
 
 - Enhance overall email security 
 - Reduce phishing risks  
