@@ -22,7 +22,7 @@ _An intelligent machine learning system that detects the phishing emails using P
 ## Overview
 Phishing emails are the one of the most common cybersecurity threats, often deceiving users into revealing sensitive information or downloading the malicious software.  
 
-This project presents a **machine learning-based phishing email detector** that analyzes the email text and classifies it as **Phishing** or **Legitimate** through an interactive Flask web application.
+This project presents a **machine learning-based phishing email detector** that analyzes the email text and classifies it as **Phishing** or **Legitimate** through an interactive Flask Web application.
 
 ---
 
